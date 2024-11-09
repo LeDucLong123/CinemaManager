@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<phims>
+    <phim id="Ph8">
+        <ten>No Way Up</ten>
+        <theLoai>Hanh dong</theLoai>
+        <doTuoi>17</doTuoi>
+        <posterLink>/Images/nowayup.jpg</posterLink>
+        <dt>0.0</dt>
+        <thoiLuong>PT1H30M</thoiLuong>
+        <TgKhoiChieu>2024-01-18</TgKhoiChieu>
+    </phim>
+    <phim id="Ph10">
+        <ten>The Tear Smith</ten>
+        <theLoai>Tinh cam</theLoai>
+        <doTuoi>16</doTuoi>
+        <posterLink>/Images/tearsmith.jpg</posterLink>
+        <dt>0.0</dt>
+        <thoiLuong>PT1H56M</thoiLuong>
+        <TgKhoiChieu>2024-05-03</TgKhoiChieu>
+    </phim>
+    <phim id="Ph11">
+        <ten>The Wages Of Fear</ten>
+        <theLoai>Hanh dong</theLoai>
+        <doTuoi>16</doTuoi>
+        <posterLink>/Images/wagesoffear.jpg</posterLink>
+        <dt>0.0</dt>
+        <thoiLuong>PT1H47M</thoiLuong>
+        <TgKhoiChieu>2024-03-28</TgKhoiChieu>
+    </phim>
+    <phim id="Ph903">
+        <ten>a</ten>
+        <theLoai>Khoa hoc vien tuong</theLoai>
+        <doTuoi>13</doTuoi>
+        <posterLink>/Images/no_poster.jpg</posterLink>
+        <dt>0.0</dt>
+        <thoiLuong>PT2H</thoiLuong>
+        <TgKhoiChieu>2024-12-11</TgKhoiChieu>
+    </phim>
+    <phim id="Ph1">
+        <ten>Alien Noid</ten>
+        <theLoai>Khoa hoc vien tuong</theLoai>
+        <doTuoi>16</doTuoi>
+        <posterLink>/Images/aliennoid.jpg</posterLink>
+        <dt>0.0</dt>
+        <thoiLuong>PT2H25M</thoiLuong>
+        <TgKhoiChieu>2022-07-20</TgKhoiChieu>
+    </phim>
+    <phim id="Ph3">
+        <ten>Dune: Part Two</ten>
+        <theLoai>Khoa hoc vien tuong</theLoai>
+        <doTuoi>16</doTuoi>
+        <posterLink>/Images/dune2.jpg</posterLink>
+        <dt>0.0</dt>
+        <thoiLuong>PT2H45M</thoiLuong>
+        <TgKhoiChieu>2024-02-27</TgKhoiChieu>
+    </phim>
+    <phim id="Ph6">
+        <ten>Imaginary</ten>
+        <theLoai>Kinh di</theLoai>
+        <doTuoi>13</doTuoi>
+        <posterLink>/Images/imaginary.jpg</posterLink>
+        <dt>0.0</dt>
+        <thoiLuong>PT1H45M</thoiLuong>
+        <TgKhoiChieu>2024-03-06</TgKhoiChieu>
+    </phim>
+    <phim id="Ph9">
+        <ten>Penoza: The Final Chapter</ten>
+        <theLoai>Hanh dong</theLoai>
+        <doTuoi>16</doTuoi>
+        <posterLink>/Images/penzoa.jpg</posterLink>
+        <dt>0.0</dt>
+        <thoiLuong>PT1H55M</thoiLuong>
+        <TgKhoiChieu>2019-11-28</TgKhoiChieu>
+    </phim>
+    <phim id="Ph7">
+        <ten>The Adventures of Maid Marian</ten>
+        <theLoai>Hai huoc</theLoai>
+        <doTuoi>16</doTuoi>
+        <posterLink>/Images/maidmarian.jpg</posterLink>
+        <dt>0.0</dt>
+        <thoiLuong>PT1H22M</thoiLuong>
+        <TgKhoiChieu>2022-05-09</TgKhoiChieu>
+    </phim>
+    <phim id="Ph4">
+        <ten>Hard Hit</ten>
+        <theLoai>Hanh dong</theLoai>
+        <doTuoi>18</doTuoi>
+        <posterLink>/Images/hardhit.jpg</posterLink>
+        <dt>0.0</dt>
+        <thoiLuong>PT1H34M</thoiLuong>
+        <TgKhoiChieu>2021-06-23</TgKhoiChieu>
+    </phim>
+    <phim id="Ph5">
+        <ten>Heart Of Hunter</ten>
+        <theLoai>Hanh dong</theLoai>
+        <doTuoi>16</doTuoi>
+        <posterLink>/Images/heartofhunter.jpg</posterLink>
+        <dt>0.0</dt>
+        <thoiLuong>PT1H45M</thoiLuong>
+        <TgKhoiChieu>2024-03-28</TgKhoiChieu>
+    </phim>
+    <phim id="Ph2">
+        <ten>Baghead</ten>
+        <theLoai>Kinh di</theLoai>
+        <doTuoi>18</doTuoi>
+        <posterLink>/Images/baghead.jpg</posterLink>
+        <dt>0.0</dt>
+        <thoiLuong>PT1H35M</thoiLuong>
+        <TgKhoiChieu>2023-12-28</TgKhoiChieu>
+    </phim>
+</phims>
